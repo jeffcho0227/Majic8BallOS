@@ -46,7 +46,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outletCollection property="butllImageView" destination="p8e-UQ-dg3" collectionClass="NSMutableArray" id="53l-Z2-Pj9"/>
+                        <outlet property="ballImageView" destination="p8e-UQ-dg3" id="lhe-Qk-yHB"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
